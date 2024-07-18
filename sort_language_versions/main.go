@@ -14,7 +14,7 @@ type Language struct {
 
 var items = []Language{
 	{"cpp", "2.7"}, {"cpp", "2020"},
-	{"golang", "1.21"}, {"golang", "1.20"}, {"golang", "1.19"}, {"golang", "1.12.13"}, {"golang", "1.17"}, {"golang", "1.8"},
+	{"golang", "1.21"}, {"golang", "1.20"}, {"golang", "1.2"}, {"golang", "1.19"}, {"golang", "1.12.13"}, {"golang", "1.17"}, {"golang", "1.8"},
 	{"lua", "5"},
 }
 
