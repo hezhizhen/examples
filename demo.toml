@@ -1,0 +1,4 @@
+timeout = "60m"
+memory_str = "40Mi"                      # 40Mi
+memory_int = 41943040                    # 40Mi
+start_time = "2024-08-01T00:00:00+08:00"
