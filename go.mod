@@ -6,7 +6,7 @@ toolchain go1.22.2
 
 require (
 	github.com/BurntSushi/toml v1.4.0
-	github.com/Masterminds/semver/v3 v3.2.1
+	github.com/Masterminds/semver/v3 v3.3.0
 	k8s.io/apimachinery v0.30.3
 )
 
