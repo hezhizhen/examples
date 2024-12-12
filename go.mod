@@ -1,13 +1,12 @@
 module examples
 
 go 1.22.0
-
-toolchain go1.22.2
+toolchain go1.23.4
 
 require (
 	github.com/BurntSushi/toml v1.4.0
 	github.com/Masterminds/semver/v3 v3.3.1
-	k8s.io/apimachinery v0.31.3
+	k8s.io/apimachinery v0.32.0
 )
 
 require (
