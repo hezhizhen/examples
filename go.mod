@@ -5,7 +5,7 @@ go 1.27
 require (
 	github.com/BurntSushi/toml v1.6.0
 	github.com/Masterminds/semver/v3 v3.5.0
-	k8s.io/apimachinery v0.36.3
+	k8s.io/apimachinery v0.37.0
 )
 
 require (
