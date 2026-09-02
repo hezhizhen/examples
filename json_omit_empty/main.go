@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	alice := map[string]interface{}{
+	alice := map[string]any{
 		"name": "Alice",
 		"age":  18,
 	}
